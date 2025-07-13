@@ -1,6 +1,6 @@
 TIME=$(date "+%Y-%m-%d %H:%M:%S")
 
-SOURCE="/home/misha/Downloads/only\ birds.html"
+SOURCE="/home/misha/Downloads/onlybirds.html"
 DESTINATION="$(pwd)/index.html"
 OLD="$(pwd)/old/index"$TIME".html"
 
